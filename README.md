@@ -1,6 +1,6 @@
 # n8n-nodes-the-bookie
 
-Community node for [The Bookie](https://thebookie.nl) accounting platform.
+Community node for The Bookie accounting platform.
 
 ## Installation
 
